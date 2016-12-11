@@ -1,4 +1,5 @@
 2016 "Breaking Binaries" Fuzzer
+我们使用的cyberstakes破2016的二进制代码挑战噩梦。成功破解了一个很好的200 +程序，虽然，比任何其他团队！
 ============
 
 This repository hosts the code that we "objEEdump" used to try and render a [segfault] with multiple binaries during the [Cyberstakes] 2016 "Breaking Binaries" exercise.
